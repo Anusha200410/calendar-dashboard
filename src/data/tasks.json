@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Complete the Frontend Labs Assignment",
+    "due": "2025-11-05T13:00:00",
+    "status": "In Progress"
+  },
+  {
+    "id": 2,
+    "name": "Push Code to GitHub Repository",
+    "due": "2025-11-05T13:00:00",
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "name": "Deploy via GitHub Pages",
+    "due": "2025-11-05T13:00:00",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "name": "Share Live Demo and Repository Link with Team",
+    "due": "2025-11-05T13:00:00",
+    "status": "To Do"
+  }
+]
